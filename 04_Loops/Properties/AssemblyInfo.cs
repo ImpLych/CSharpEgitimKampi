@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CSharpEgitimKampi")]
+[assembly: AssemblyTitle("04_Loops")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("CSharpEgitimKampi")]
+[assembly: AssemblyProduct("04_Loops")]
 [assembly: AssemblyCopyright("Copyright © HP 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("eb9c3ff9-bd35-4ed0-81d7-e6681b23e242")]
+[assembly: Guid("b31849f2-77b8-460e-951a-d6612122103f")]
 
 // Version information for an assembly consists of the following four values:
 //

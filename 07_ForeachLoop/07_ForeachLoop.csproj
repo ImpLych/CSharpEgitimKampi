@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EB9C3FF9-BD35-4ED0-81D7-E6681B23E242}</ProjectGuid>
+    <ProjectGuid>{E6261E8F-87D1-4F22-9575-F921AFBDF0B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CSharpEgitimKampi</RootNamespace>
-    <AssemblyName>CSharpEgitimKampi</AssemblyName>
+    <RootNamespace>_07_ForeachLoop</RootNamespace>
+    <AssemblyName>07_ForeachLoop</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
